@@ -38,7 +38,6 @@ Bem-vindo ao CineCritix! Uma plataforma desenvolvida para compartilhar e descobr
 ```bash
   npm run dev
 ```
-O site estará disponível em http://localhost:5173/ 🚀
 
 ### Backend
 1️⃣ Clone este repositório:
@@ -58,7 +57,6 @@ O site estará disponível em http://localhost:5173/ 🚀
 ```bash
   mvn spring-boot:run
 ```
-O backend estará rodando em http://localhost:8080/ 🔥
 
 ## 📩 Contato
 Desenvolvido por:
